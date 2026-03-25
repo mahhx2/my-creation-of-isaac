@@ -1,7 +1,7 @@
 # my-creation-of-pacman
 this is a game thats based on the original pacman game
 
-demo: https://github.dev/mahhx2/my-creation-of-isaac/blob/449d8b87b47b283f9a0f43216ced3f1b0a9548fc/my-creation-of-pacman/pacman.py#L296
+demo: https://imkennyyip.github.io/pacman/
 
 
 //
