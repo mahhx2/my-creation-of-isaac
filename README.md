@@ -2,7 +2,7 @@
 this is a game thats based on the original pacman game
 
 demo: https://imkennyyip.github.io/pacman/
-
+PS: ikke min demo, men jeg fikk insperasjon fra han.
 
 //
 fikse at cherry's funker sånn at pacman kan spise spøkelsene og sånn at de får respawna.
